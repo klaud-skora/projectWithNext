@@ -1,7 +1,10 @@
+import Header from '../components/header';
+
 export default function Index() {
     return (
       <div>
-        <p>Hello Next.js</p>
+        <Header />
+        <p>Hello YOU!</p>
       </div>
     );
   }
